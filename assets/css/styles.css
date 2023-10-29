@@ -66,7 +66,7 @@ img {
   padding: 2.5rem 1.5rem;
   border-radius: 1rem;
   backdrop-filter: blur(8px);
-  margin-top: 150px;
+  margin-top: 100px;
 }
 .login__title {
   text-align: center;
@@ -124,13 +124,12 @@ img {
 .login__check,
 .login__check-group {
   display: flex;
-  justify-content: center;
-  flex-direction: column;
-  flex-wrap: nowrap;
+  align-items: center;
 }
 .login__check {
   margin-bottom: 1.5rem;
   display: flex;
+  flex-wrap: wrap;
 }
 .login__check-label,
 .login__forgot,
@@ -145,7 +144,12 @@ img {
   width: 16px;
   height: 16px;
 }
-
+.login__forgot {
+  color: var(--white-color);
+}
+.login__forgot:hover {
+  text-decoration: underline;
+}
 .login__button {
   width: 100%;
   padding: 1rem;

@@ -18,8 +18,8 @@ fetch("./assets/js/source.json")
           <div class="qual"><h5>${mov.quality}</h5></div>
           <div class="time"><h5>${mov.time}</h5></div>
         </div>
-        <div class="ticket"><button></button><h3>Get ticket</h3></button></div>
-      </div>
+        <div class="ticket"><button>Get ticket</button></div>
+        </div>
     </div>`;
       container.append(div);
     });

@@ -1,2 +1,2 @@
-let loginCheck = false;
-console.log(loginCheck);
+let loginCheck = false
+console.log(loginCheck)

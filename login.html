@@ -3,19 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="stylesheet" href="./assets/css/styles.css" />
     <link rel="stylesheet" href="./assets/css/style.css" />
-
-    <!-- 
-    - google font link
-  -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
+    <!--=============== REMIXICONS ===============-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="assets/css/styles.css" />
+
     <title>Login</title>
   </head>
   <body>
@@ -149,17 +151,13 @@
 
         <div class="login__check">
           <div class="login__check-group">
-            <button type="submit" class="login__button" id="login__btn">
-              Login
-            </button>
-          </div>
-          <div class="login__register">
-            <p>Dont have an account? <a href="regis.html">Register</a></p>
-          </div>
-        </div>
+        <button type="button" class="login__button" id="login__btn">Login</button>
+        <p class="login__register">
+          Dont have an account? <a href="regis.html">Register</a>
+        </p>
       </form>
-    </div>
-    <script src="./assets/js/account.js"></script>
+    </div>    <script src="./assets/js/account.js"></script>
+
     <script>
       let login = document.getElementById("login__btn");
       login.addEventListener("click", () => {
