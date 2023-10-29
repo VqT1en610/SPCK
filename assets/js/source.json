@@ -1,0 +1,124 @@
+{
+  "mov": [
+    {
+      "id": 1,
+      "name": "KẺ ẨN DANH",
+      "quality": "4K",
+      "time": "93min",
+      "rating": 9,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/6/13/300wx450h_1686640452930.jpg"
+    },
+    {
+      "id": 2,
+      "name": "WOLFOO AND THE MYSTERIOUS ISLAND",
+      "quality": "4K",
+      "time": "n/a",
+      "rating": 6.4,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/27/500x750_1695787578707.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ĐẤT RỪNG PHƯƠNG NAM",
+      "quality": "4K",
+      "time": "110min",
+      "rating": 6.7,
+      "imgLink": "https://upload.wikimedia.org/wikipedia/vi/8/8c/%C4%90%E1%BA%A5t_r%E1%BB%ABng_ph%C6%B0%C6%A1ng_Nam_-_Official_poster.jpg"
+    },
+    {
+      "id": 4,
+      "name": "THE EXORCIST: BELIEVER",
+      "quality": "4K",
+      "time": "111min",
+      "rating": 8.4,
+      "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScUQPXSUUv6KssAcESYWoiEP5RsNCtA4UaF_aI1e_Ff-O9wAJAYsIqW553OBpTSmjTCWA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "KUMARN",
+      "quality": "4K",
+      "time": "88min",
+      "rating": 6.2,
+      "imgLink": "https://i.mydramalist.com/eYlAkd_4f.jpg"
+    },
+    {
+      "id": 6,
+      "name": "SLEEP",
+      "quality": "4K",
+      "time": "94min",
+      "rating": 8.1,
+      "imgLink": "https://m.media-amazon.com/images/M/MV5BYzA5NzQyNjMtYWZkOS00ZDU4LThmYjYtM2E4MDU3OTY3NDQwXkEyXkFqcGdeQXVyMTU1MDczNjU1._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "GIAO LỘ 8675",
+      "quality": "4K",
+      "time": "107min",
+      "rating": 5.5,
+      "imgLink": "https://cdn.tuoitre.vn/471584752817336320/2023/8/23/1-giao-lo-8675-oficial-poster-16927931143051241013584.jpg"
+    },
+    {
+      "id": 8,
+      "name": "RASCAL DOES NOT DREAM OF A SISTER VENTURING OUT",
+      "quality": "4K",
+      "time": "74min",
+      "rating": 9.6,
+      "imgLink": "https://upload.wikimedia.org/wikipedia/en/9/90/Rascal_Does_Not_Dream_of_a_Sister_Venturing_Out_film_poster.jpg"
+    },
+    {
+      "id": 9,
+      "name": "DR.CHEON AND LOST TALISMAN",
+      "quality": "4K",
+      "time": "98min",
+      "rating": 9.2,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/21/cheon-500_1695281331881.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MAN SUANG",
+      "quality": "4K",
+      "time": "125min",
+      "rating": 8.7,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/15/500x750_1694761178768.jpg"
+    },
+    {
+      "id": 11,
+      "name": "PAW PATROL: THE MIGHTY MOVIE",
+      "quality": "4K",
+      "time": "93min",
+      "rating": 9.1,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/5/500x750_1693884883529.jpg"
+    },
+    {
+      "id": 12,
+      "name": "THE CREATOR",
+      "quality": "4K",
+      "time": "133min",
+      "rating": 7.6,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/29/500x750_1695961593994.jpg"
+    },
+    {
+      "id": 13,
+      "name": "PAST LIVES",
+      "quality": "4K",
+      "time": "106min",
+      "rating": 7.8,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/19/500x750_1695095394242.jpg"
+    },
+    {
+      "id": 14,
+      "name": "EXPEND4ABLES",
+      "quality": "4K",
+      "time": "104min",
+      "rating": 8.8,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/18/500x750_1695010127758.jpg"
+    },
+    {
+      "id": 15,
+      "name": "THE NUN II",
+      "quality": "4K",
+      "time": "110min",
+      "rating": 8.1,
+      "imgLink": "https://cdn.galaxycine.vn/media/2023/9/2/300_1693671135181.jpg"
+    }
+  ]
+}
